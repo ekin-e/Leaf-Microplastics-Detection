@@ -1,0 +1,6 @@
+train: 'C:/Users/ekine/OneDrive/Desktop/CSCI/masters_year_2/LeafMicroplastics/dataset/train/images'
+val: 'C:/Users/ekine/OneDrive/Desktop/CSCI/masters_year_2/LeafMicroplastics/dataset/val/images'
+
+# class names
+names:
+  0: 'microplastic'
