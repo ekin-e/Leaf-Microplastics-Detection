@@ -8,7 +8,7 @@ names = model.names
 image_path = 'test_image_path' # change this
 # Load the original image
 original_image = cv2.imread(image_path)
-results = model(image_path, conf=0.7)  
+results = model(image_path, conf=0.7)
 
 for r in results:
     print("r", results)
