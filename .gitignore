@@ -1,0 +1,5 @@
+.env
+**.egg-info
+.venv
+data
+yolov8n.pt
