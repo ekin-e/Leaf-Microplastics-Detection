@@ -5,6 +5,8 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "ipython>=9.1.0",
     "roboflow>=1.1.54",
+    "sahi<=0.11.19",
     "ultralytics>=8.3.75",
 ]
