@@ -3,7 +3,7 @@
 # Setup
 Install using the pyproject.toml. `pip`, `uv`, or `Poetry` works. We recommend [uv](https://docs.astral.sh/uv/).
 ```bash
-uv python intstall
+uv python install
 uv pip install -r pyproject.toml
 ```
 
@@ -14,4 +14,4 @@ uv pip install -r pyproject.toml
 python3 inference/inference_yolo_sahi.py
 ```
 3. Visualization of the predictions will be inside inference/new_img
-4. area information of the microplastics will be inside final_output.json
+4. Area information of the microplastics will be inside final_output.json
